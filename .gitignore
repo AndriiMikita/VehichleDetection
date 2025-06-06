@@ -1,0 +1,5 @@
+test
+.venv
+output
+output_detect
+yolov8x_tuned_c_new_dataset.pt
